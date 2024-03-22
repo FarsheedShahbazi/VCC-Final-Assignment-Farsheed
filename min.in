@@ -1,0 +1,9 @@
+minimise complex
+ &cntrl
+  imin=1,maxcyc=10000,ncyc=5000,
+  cut=10.0,ntb=1, ntp=0,
+  ntc=1,ntf=1,
+  ntpr=100, ntr=1, restraintmask=':1-447',
+  restraint_wt=20
+ /
+
